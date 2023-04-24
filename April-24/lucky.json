@@ -1,0 +1,102 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 12",
+      "price": 999,
+      "image": "https://example.com/iphone-12.jpg",
+      "type": "electronics"
+    },
+    {
+      "id": 2,
+      "name": "Clinique Moisture Surge",
+      "price": 39,
+      "image": "https://example.com/clinique-moisture-surge.jpg",
+      "type": "cosmetics"
+    },
+    {
+      "id": 3,
+      "name": "Nike Air Max 2090",
+      "price": 150,
+      "image": "https://example.com/nike-air-max-2090.jpg",
+      "type": "exercise"
+    },
+    {
+      "id": 4,
+      "name": "The Alchemist",
+      "price": 10,
+      "image": "https://example.com/the-alchemist.jpg",
+      "type": "books"
+    },
+    {
+      "id": 5,
+      "name": "Fresh Strawberries",
+      "price": 5,
+      "image": "https://example.com/fresh-strawberries.jpg",
+      "type": "groceries"
+    },
+    {
+      "id": 6,
+      "name": "Fitbit Charge 5",
+      "price": 179,
+      "image": "https://example.com/fitbit-charge-5.jpg",
+      "type": "electronics"
+    },
+    {
+      "id": 7,
+      "name": "L'Oreal Paris Voluminous Mascara",
+      "price": 9,
+      "image": "https://example.com/loreal-voluminous-mascara.jpg",
+      "type": "cosmetics"
+    },
+    {
+      "id": 8,
+      "name": "Yoga Mat",
+      "price": 30,
+      "image": "https://example.com/yoga-mat.jpg",
+      "type": "exercise"
+    },
+    {
+      "id": 9,
+      "name": "To Kill a Mockingbird",
+      "price": 12,
+      "image": "https://example.com/to-kill-a-mockingbird.jpg",
+      "type": "books"
+    },
+    {
+      "id": 10,
+      "name": "Organic Avocado",
+      "price": 2,
+      "image": "https://example.com/organic-avocado.jpg",
+      "type": "groceries"
+    },
+    {
+      "id": 11,
+      "name": "Sony WH-1000XM4",
+      "price": 349,
+      "image": "https://example.com/sony-wh-1000xm4.jpg",
+      "type": "electronics"
+    },
+    {
+      "id": 12,
+      "name": "Maybelline Instant Age Rewind Concealer",
+      "price": 8,
+      "image": "https://example.com/maybelline-instant-age-rewind.jpg",
+      "type": "cosmetics"
+    },
+    {
+      "id": 13,
+      "name": "Resistance Bands",
+      "price": 15,
+      "image": "https://example.com/resistance-bands.jpg",
+      "type": "exercise"
+    },
+    {
+      "id": 14,
+      "name": "The Great Gatsby",
+      "price": 8,
+      "image": "https://example.com/the-great-gatsby.jpg",
+      "type":"books"
+	}
+	]
+}
