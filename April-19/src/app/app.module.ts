@@ -16,6 +16,8 @@ import { FeedbackBoxComponent } from './pages/testimonial/feedback-box/feedback-
 import { QuoteitPipe } from './pipes/quoteit.pipe';
 import { FormsModule } from '@angular/forms';
 import { TypefilterPipe } from './pipes/typefilter.pipe';
+import { DetailsComponent } from './pages/home/details/details.component';
+import { FeedbackFormComponent } from './pages/testimonial/feedback-form/feedback-form.component';
 
 
 @NgModule({
@@ -30,7 +32,9 @@ import { TypefilterPipe } from './pipes/typefilter.pipe';
     ServiceBoxComponent,
     FeedbackBoxComponent,
     QuoteitPipe,
-    TypefilterPipe
+    TypefilterPipe,
+    DetailsComponent,
+    FeedbackFormComponent
   ],
   imports: [
     BrowserModule,

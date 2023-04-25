@@ -1,6 +1,6 @@
 .menu-bar{
     background-color: #09e1f1 !important;
-    color: whitesmoke ! important;
+    color: #080808 ! important;
 }
 
 .title{
@@ -19,7 +19,7 @@ li {
 }
 
 a {
-    color: whitesmoke;
+    color: rgb(6, 5, 5);
     size: 20px;
     text-decoration: none;
     cursor: pointer;
